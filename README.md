@@ -1,4 +1,4 @@
-# Julia_ML
+# Neural-Networks-and-Deep-Learning-in-Julia
 My journey into machine learning with julia
 
 ## Currently it has:
