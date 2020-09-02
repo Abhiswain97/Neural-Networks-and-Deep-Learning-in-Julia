@@ -11,5 +11,5 @@ View using: [github](https://github.com/Abhiswain97/Neural-Networks-and-Deep-Lea
 - This is Logistic regression applied it to Bank note authentication.
 
 ## Blog post: 
-The first one is also available as a blog post on my website if you prefer it that way -> [*Hello, Julia!*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
+The first one is also available as a blog post on my website if you prefer it that way -> [*Logistic regression with a neural network mindset*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
 
